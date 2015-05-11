@@ -1,0 +1,3 @@
+function n (a){
+    return[];
+}
